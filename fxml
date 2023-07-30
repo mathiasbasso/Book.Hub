@@ -8,7 +8,6 @@
 
 <VBox xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml"
       fx:controller="br.com.senac.bookhub.controller.LivroController">
-    <Label text="Book Hub"/>
     <Label text="Nome do Livro:" />
     <TextField fx:id="nomeLivroField" />
     <Label text="Autor:" />

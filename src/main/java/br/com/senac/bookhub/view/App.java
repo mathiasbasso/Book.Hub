@@ -15,7 +15,7 @@ public class App extends Application {
     public void start(Stage primaryStage) throws Exception {
         Parent root = FXMLLoader.load(Objects.requireNonNull(App.class.getResource("/gui/livro.fxml")));
         Scene scene = new Scene(root);
-        primaryStage.setTitle("Gerenciamento de Livros");
+        primaryStage.setTitle("Book Hub");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
