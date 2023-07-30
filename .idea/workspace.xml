@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2e003aba-4bf6-4cb7-a2e1-f77672f087ff" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/senac/bookhub/view/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/senac/bookhub/view/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/gui/livro.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/gui/livro.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,14 +39,32 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Projeto_Integrador/Book.Hub",
+    "last_opened_file_path": "C:/Projeto_Integrador/contas-crud-javafx",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.5482759",
     "settings.editor.selected.configurable": "preferences.JavaFX"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.senac.bookhub.view.App" />
+      <module name="BookHub" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.senac.bookhub.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Book.Hub" />
       <method v="2">
@@ -61,6 +78,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
