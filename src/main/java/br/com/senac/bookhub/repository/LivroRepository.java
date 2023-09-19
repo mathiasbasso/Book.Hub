@@ -11,3 +11,4 @@ public interface LivroRepository {
     void excluirLivro(int id);
     List<Livro> pesquisarLivro(String termo);
 }
+

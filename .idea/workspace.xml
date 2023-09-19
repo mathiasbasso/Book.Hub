@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e003aba-4bf6-4cb7-a2e1-f77672f087ff" name="Changes" comment="" />
+    <list default="true" id="2e003aba-4bf6-4cb7-a2e1-f77672f087ff" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/senac/bookhub/repository/LivroRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/senac/bookhub/repository/LivroRepository.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +42,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Projeto_Integrador/contas-crud-javafx",
+    "last_opened_file_path": "C:/Senac/gerenciadorPassagens",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.5482759",
@@ -51,6 +54,18 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="br.com.senac.bookhub.view" />
+      <recent name="br.com.senac.bookhub.service" />
+      <recent name="br.com.senac.bookhub.repository" />
+      <recent name="br.com.senac.bookhub.controller" />
+      <recent name="br.com.senac.bookhub.model" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.senac.bookhub.view.App" />
